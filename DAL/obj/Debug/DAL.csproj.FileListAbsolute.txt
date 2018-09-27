@@ -1,0 +1,6 @@
+D:\vsProjects\QYWL\DAL\bin\Debug\DAL.dll
+D:\vsProjects\QYWL\DAL\bin\Debug\DAL.pdb
+D:\vsProjects\QYWL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\vsProjects\QYWL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\vsProjects\QYWL\DAL\obj\Debug\DAL.dll
+D:\vsProjects\QYWL\DAL\obj\Debug\DAL.pdb

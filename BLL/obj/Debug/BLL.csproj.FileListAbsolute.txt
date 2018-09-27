@@ -1,0 +1,6 @@
+D:\vsProjects\QYWL\BLL\bin\Debug\BLL.dll
+D:\vsProjects\QYWL\BLL\bin\Debug\BLL.pdb
+D:\vsProjects\QYWL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\vsProjects\QYWL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\vsProjects\QYWL\BLL\obj\Debug\BLL.dll
+D:\vsProjects\QYWL\BLL\obj\Debug\BLL.pdb
